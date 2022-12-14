@@ -8,4 +8,4 @@
 
 # Hosting Link
 
-https://surajsinghgahlod.github.io/moviestore.github.io/
+https://surajsinghgahlod.github.io/Movie-Store/
